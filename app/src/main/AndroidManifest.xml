@@ -27,7 +27,7 @@
             android:name=".ListasCanciones"
             android:exported="false" />
 
-        <!-- Reproductor de música -->
+
         <activity
             android:name=".MainActivity"
             android:exported="false" />
